@@ -22,10 +22,10 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-            What do you want to know about UI
+            Desenvolvimento de websites inovadores, com UI/UX personalizados. 
           </h1>
         </div>
       </article>
@@ -39,10 +39,10 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-            All the features you want to know
+            Desenvolvimento de aplicativos
           </h1>
         </div>
       </article>
@@ -56,10 +56,10 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-            Which services you get from Meraki UI
+            Hospedagem de sites.
           </h1>
         </div>
       </article>
@@ -72,10 +72,10 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-            What do you want to know about UI
+            Serviços de SEO
           </h1>
         </div>
       </article>
@@ -89,10 +89,10 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-            All the features you want to know
+            Monitoramento (Google Analytics) e manutenção dos sites
           </h1>
         </div>
       </article>
@@ -106,7 +106,7 @@
         />
 
         <div class="mt-8">
-          <span class="text-blue-500 uppercase">category</span>
+          <span class="text-blue-500 uppercase">CYGNUS-SERVIÇOS</span>
 
           <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
             Which services you get from Meraki UI

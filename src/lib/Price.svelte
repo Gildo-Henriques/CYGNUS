@@ -2,7 +2,7 @@
     <div class="container px-6 py-8 mx-auto">
         <div class="xl:items-center xl:-mx-8 xl:flex">
             <div class="flex flex-col items-center xl:items-start xl:mx-8">
-                <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
+                <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Planos de preços</h1>
 
                 <div class="mt-4">
                     <span class="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
@@ -11,7 +11,7 @@
                 </div>
 
                 <p class="mt-4 font-medium text-gray-500 dark:text-gray-300">
-                    You can get All Access by selecting your plan!
+                    Acesso os nossos serviços
                 </p>
 
                 <a href="#" class="flex items-center mt-4 -mx-1 text-sm text-gray-700 capitalize dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500">

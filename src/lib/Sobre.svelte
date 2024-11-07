@@ -11,6 +11,25 @@
       Alias, dolorum id soluta in atque ad harum vel commodi. Reprehenderit,
       blanditiis voluptas.
     </p>
+    <a href="" class="flex space-x-1 items-center text-[#0d70ff]/80 hover:text-[#0d70ff]">
+      <span>Saber mais sobre nós</span>
+      <span>
+        <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="size-5 mt-[5px]"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"
+                />
+              </svg>
+      </span>
+    </a>
   </div>
   <!-- imagens -->
    <div class="grid lg:grid-cols-2 lg:w-[48%] w-full gap-5 *:rounded-xl grid-rows-2 lg:h-[400px] *:object-cover" data-aos="zoom-in" data-aos-duration="2000">
