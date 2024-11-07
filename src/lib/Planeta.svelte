@@ -4,7 +4,7 @@
         <article class="bg-gray-800/40 text-white lg:text-base text-xs  lg:py-5 py-3 absolute top-10 lg:-left-28 -left-10 px-3 rounded-lg">
             Expandimos o seu negócio no mundo inteiro
         </article>
-        <article class="bg-gray-900/50 text-white lg:text-base text-xs lg:py-5 py-3  absolute lg:top-36 top-28 lg:-right-24 -right-5 px-3 rounded-lg">
+        <article class="bg-gray-900/50 text-white lg:text-base text-xs lg:py-5 py-3  absolute lg:top-36 top-28 lg:-right-24 -right-8 px-3 rounded-lg">
             Bom posicionamento na internet
         </article>
         <article class="bg-gray-900/50 text-white lg:text-base text-xs lg:py-5 py-3  absolute bottom  lg:-left-24 -left-10 px-3 rounded-lg">
